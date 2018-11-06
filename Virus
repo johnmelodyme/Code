@@ -1,5 +1,9 @@
 // AUTHOR TayshwarSolo
 // crazy V
+//For educational purposes
+
+
+
 import java.awt.Robot;
 import java.awt.event.InputEvent;
 import java.util.Random;
@@ -20,3 +24,7 @@ import java.util.Random;
         robot.mousePress(InputEvent.BUTTON1_MASK);robot.mouseRelease(InputEvent.BUTTON1_MASK);
     }
 }
+
+
+
+
